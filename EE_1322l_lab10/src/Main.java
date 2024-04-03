@@ -12,7 +12,7 @@ class Main {
 
             String line1 = "";
             String line2 = "";
-""
+
             int lineNum = 0;
             while (myScan.hasNextLine() && myScan2.hasNextLine()){
                 line1 = myScan.nextLine();
